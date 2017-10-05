@@ -10,7 +10,7 @@
 
 `Stickers Co-Author and Cartoonist - 13 April 2017`
 * Twitter: [https://twitter.com/TaniK72](https://twitter.com/TaniK72)
-* Instagram: [https://github.com/TaniK72](https://github.com/TaniK72)
+* Instagram: [https://instagram.com/TaniK72](https://instagram.com/TaniK72)
 
 
 # Patryk Rzucidlo (@ptkdev) info@ptkdev.it

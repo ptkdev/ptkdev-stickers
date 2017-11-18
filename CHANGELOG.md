@@ -1,3 +1,8 @@
+# v1.3 (Sep 7, 2017)
+
+* 9 new stickers 
+
+
 # v1.2.1 (Sep 14, 2017)
 
 * 1 new stickers 

@@ -1,3 +1,8 @@
+# v1.3.1 (Nov 22, 2017)
+
+* Fix white border of all stickers
+
+
 # v1.3 (Nov 7, 2017)
 
 * 9 new stickers 

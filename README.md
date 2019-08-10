@@ -11,6 +11,12 @@
 
 [![](https://img.shields.io/badge/donate-paypal-005EA6.svg)](https://www.paypal.me/ptkdev) [![](https://img.shields.io/badge/donate-patreon-F87668.svg)](https://www.patreon.com/ptkdev) [![](https://img.shields.io/badge/buy%20me-coffee-4B788C.svg)](https://ko-fi.com/ptkdev)
 
+## 📲 Install (free)
+* [✔️] Stickers for [Whatsapp](https://stickers.ptkdev.io/whatsapp)
+* [✔️] Stickers for [Telegram](https://t.me/addstickers/ptkdev)
+* [✔️] Stickers for [iMessage](https://itunes.apple.com/app/id1265489619)
+* [✔️] Stickers for [Discord](https://discordapp.com/invite/4URxy9E)
+
 ## 💡 Features
 * [✔️] Free use with Creative Commons BY-NC 4.0 License
 * [✔️] Available Commercial use License ([buy license](https://www.patreon.com/join/ptkdev/checkout?rid=3728641) for 24$/month)

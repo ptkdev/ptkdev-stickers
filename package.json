@@ -1,0 +1,53 @@
+{
+	"name": "ptkdev-stickers",
+	"description": "PTKDev Stickers for whatsapp, telegram, discord and files png/psd",
+	"version": "1.5.0",
+	"main": "plugin.js",
+	"author": "Patryk Rzucidło [@ptkdev] <support@ptkdev.io> (https://ptk.dev)",
+	"license": "CC BY-NC 4.0",
+	"homepage": "https://github.com/ptkdev/ptkdev-stickers",
+	"donate": {
+		"patreon": "https://www.patreon.com/ptkdev",
+		"paypal": "https://www.paypal.me/ptkdev",
+		"ko-fi": "https://ko-fi.com/ptkdev"
+	},
+	"bugs": {
+		"url": "https://github.com/ptkdev/ptkdev-stickers/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/ptkdev/ptkdev-stickers.git"
+	},
+	"scripts": {
+		"lint": "eslint ./ --cache --ignore-pattern .gitignore",
+		"lint-fix": "eslint ./ --cache --ignore-pattern .gitignore --fix",
+		"docs": "markserv ./README.md",
+		"contributors-generate": "all-contributors generate"
+	},
+	"husky": {
+		"hooks": {
+			"pre-commit": "npm run contributors-generate"
+		}
+	},
+	"keywords": [
+		"ptkdev",
+		"stickers",
+		"stickers-telegram",
+		"stickers-whatsapp",
+		"stickers-discord"
+	],
+	"engines": {
+		"node": ">=10.0.0"
+	},
+	"dependencies": {},
+	"devDependencies": {
+		"all-contributors-cli": "latest",
+		"husky": "latest",
+		"yargs": "latest",
+		"markserv": "latest"
+	},
+	"contributors": [
+		"Massimo [@maXfer75] <maxfer75@hotmail.com> (https://instagram.com/maXfer75)",
+		"Gaetano [@TaniK72] <tanik1972@gmail.com> (https://instagram.com/TaniK72)"
+	]
+}

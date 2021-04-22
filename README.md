@@ -4,7 +4,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.6.0](https://img.shields.io/badge/version-v1.6.0-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/ptkdev-stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.6.0](https://img.shields.io/badge/version-v1.6.0-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/ptkdev-stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
@@ -78,8 +78,8 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://ptk.dev"><img src="https://avatars1.githubusercontent.com/u/442844?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Patryk Rzucidło</b></sub></a><br /><a href="https://github.com/ptkdev/ptkdev/ptkdev-stickers/commits?author=ptkdev" title="Code">💻</a> <a href="#translation-ptkdev" title="Translation">🌍</a> <a href="https://github.com/ptkdev/ptkdev/ptkdev-stickers/commits?author=ptkdev" title="Documentation">📖</a> <a href="https://github.com/ptkdev/ptkdev/ptkdev-stickers/issues?q=author%3Aptkdev" title="Bug reports">🐛</a></td>
-    <td align="center"><a href="https://twitter.com/maxfer75"><img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/avatar/maxfer75.jpg?s=100" width="100px;" alt=""/><br /><sub><b>MaXfer </b></sub></a><br /><a href="#design-maxfer75" title="Design">🎨</a></td>
-    <td align="center"><a href="https://twitter.com/tanik72"><img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/avatar/tanik72.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Tanik</b></sub></a><br /><a href="#design-TaniK72" title="Design">🎨</a></td>
+    <td align="center"><a href="https://instagram.com/maxfer75"><img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/avatar/maxfer75.jpg?s=100" width="100px;" alt=""/><br /><sub><b>MaXfer</b></sub></a><br /><a href="#design-maxfer75" title="Design">🎨</a></td>
+    <td align="center"><a href="https://instagram.com/tanik72"><img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/avatar/tanik72.jpg?s=100" width="100px;" alt=""/><br /><sub><b>Tanik</b></sub></a><br /><a href="#design-TaniK72" title="Design">🎨</a></td>
   </tr>
 </table>
 

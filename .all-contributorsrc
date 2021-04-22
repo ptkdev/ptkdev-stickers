@@ -1,6 +1,8 @@
 {
-	"projectName": "ptkdev-stickers",
+	"projectName": "ptkdev/ptkdev-stickers",
 	"projectOwner": "ptkdev",
+	"repoType": "github",
+	"repoHost": "https://github.com",
 	"files": [
 		"README.md"
 	],
@@ -13,14 +15,17 @@
 			"avatar_url": "https://avatars1.githubusercontent.com/u/442844?v=4",
 			"profile": "https://ptk.dev",
 			"contributions": [
-				"design"
+				"code",
+				"translation",
+				"doc",
+				"bug"
 			]
 		},
 		{
 			"login": "maxfer75",
-			"name": "MaXfer ",
-			"avatar_url": "https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/avatar/maxfer75.jpg",
-			"profile": "https://twitter.com/maxfer75",
+			"name": "MaXfer",
+			"avatar_url": "https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/avatar/maxfer75.jpg",
+			"profile": "https://instagram.com/maxfer75",
 			"contributions": [
 				"design"
 			]
@@ -28,12 +33,13 @@
 		{
 			"login": "TaniK72",
 			"name": "Tanik",
-			"avatar_url": "https://raw.githubusercontent.com/social-manager-tools/socialmanagertools-igbot/master/.github/assets/avatar/tanik72.jpg",
-			"profile": "https://twitter.com/tanik72",
+			"avatar_url": "https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/avatar/tanik72.jpg",
+			"profile": "https://instagram.com/tanik72",
 			"contributions": [
 				"design"
 			]
 		}
 	],
-	"contributorsPerLine": 6
+	"contributorsPerLine": 6,
+	"commitConvention": "none"
 }

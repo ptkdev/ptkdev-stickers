@@ -4,7 +4,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.6.1](https://img.shields.io/badge/version-v1.6.1-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.6.2](https://img.shields.io/badge/version-v1.6.2-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
@@ -45,7 +45,7 @@ PTKDev Stickers for whatsapp, telegram, discord and files png/psd
 ## 💫 License
 
 -   **Free use** with Creative Commons BY-NC 4.0 License
--   **Commercial use** for all sponsors/backers ([buy license](https://github.com/sponsors/ptkdev), tier for 3$/month)
+-   **Commercial use** for all sponsors/backers ([buy license](https://github.com/sponsors/ptkdev), tier for 3$/month or 14$/one-time for lifetime license)
 
 ## 📲 Installation
 
@@ -58,7 +58,7 @@ Free stickers pack on whatsapp, telegram, discord and iMessage
 
 ## 👔 Screenshot
 
-[![ptkdev-stickers](https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/screenshot.png)](https://raw.githubusercontent.com/ptkdev/all-shields-cli/main/.github/assets/screenshot.png)
+[![ptkdev-stickers](https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/screenshot.png)](https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/screenshot.png)
 
 ## 👑 Backers and Sponsors
 

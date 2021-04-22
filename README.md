@@ -4,7 +4,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.6.0](https://img.shields.io/badge/version-v1.6.0-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/ptkdev-stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.6.1](https://img.shields.io/badge/version-v1.6.1-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 

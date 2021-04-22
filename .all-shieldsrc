@@ -23,7 +23,7 @@
 					"label": "npm",
 					"logo": "npm",
 					"style": "flat",
-					"custom": "/npm/v/@ptkdev/ptkdev-stickers?color=CC3534&logo=npm",
+					"custom": "/npm/v/@ptkdev/stickers?color=CC3534&logo=npm",
 					"platform": "shields"
 				},
 				{

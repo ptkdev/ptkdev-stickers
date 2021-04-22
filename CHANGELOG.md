@@ -1,4 +1,4 @@
-# v1.6.0 (April 22, 2021)
+# v1.6.1 (April 22, 2021)
 
 -   Redesign of repository
 

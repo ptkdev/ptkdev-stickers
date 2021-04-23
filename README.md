@@ -4,7 +4,7 @@
 
 <!-- all-shields/header-badges:START -->
 
-[![v1.6.2](https://img.shields.io/badge/version-v1.6.2-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
+[![v1.6.3](https://img.shields.io/badge/version-v1.6.3-lightgray.svg?style=flat&logo=)](https://github.com/ptkdev/ptkdev-stickers/blob/main/CHANGELOG.md) [![](https://img.shields.io/npm/v/@ptkdev/stickers?color=CC3534&logo=npm)](https://www.npmjs.com/package/@ptkdev/stickers) [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-brightgreen.svg?style=flat&logo=license)](https://github.com/ptkdev/ptkdev-stickers/blob/main/LICENSE.md) [![Discord Server](https://discordapp.com/api/guilds/383373985666301975/embed.png)](https://discord.ptkdev.io)
 
 <!-- all-shields/header-badges:END -->
 
@@ -30,7 +30,7 @@ PTKDev Stickers for whatsapp, telegram, discord and files png/psd
 -   🐛 [Known Bugs](https://github.com/ptkdev/ptkdev-stickers/issues?q=is%3Aopen+is%3Aissue+label%3Abug)
 -   🍻 Community:
     -   <img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/social_telegram.png" height="18px"> Telegram ([🇬🇧 English](http://t.me/ptkdev_support) | [🇮🇹 Italian](http://t.me/ptkdev_support_italian))
-    -   <img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English](https://discord.gg/jqUSGPKdmA) | [🇮🇹 Italian](https://discord.gg/SJFcbvG6RU) | [🇵🇱 Polish](https://discord.gg/25vg4VFhb7))
+    -   <img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/social_discord.png" height="18px"> [Discord](http://discord.ptkdev.io) ([🇬🇧 English](https://discord.gg/NdvD9pTejn) | [🇮🇹 Italian](https://discord.gg/xjmTruZX) | [🇵🇱 Polish](https://discord.gg/UsYA5wtQ))
     -   <img src="https://raw.githubusercontent.com/ptkdev/ptkdev-stickers/main/.github/assets/social_twitter.png" height="18px"> [Twitter](http://twitter.com/ptkdevio)
 
 ## 💡 Features

@@ -2,7 +2,7 @@
 	"name": "@ptkdev/stickers",
 	"displayName": "PTKDev Stickers",
 	"description": "PTKDev Stickers for whatsapp, telegram, discord and files png/psd",
-	"version": "1.6.2",
+	"version": "1.6.3",
 	"publishConfig": {
 		"access": "public"
 	},
